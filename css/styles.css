@@ -7,7 +7,6 @@ body {
 /* ========HEADER STYLES========= */
 .page-logo {
   font-family: "Raleway", sans-serif;
-  font-weight: 700;
   font-size: 18px;
   line-height: 1.16667;
   letter-spacing: 0.03em;
@@ -32,7 +31,6 @@ body {
   font-style: normal;
 }
 .contact-list-link {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -48,7 +46,6 @@ body {
   background: #2e2f42;
 }
 .main-title {
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -56,6 +53,7 @@ body {
   color: #fff;
 }
 .order-service-btn {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -76,7 +74,6 @@ body {
   color: #2e2f42;
 }
 .benefits-list-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -91,7 +88,6 @@ body {
   color: #2e2f42;
 }
 .ourteam-list-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -106,7 +102,6 @@ body {
   color: #2e2f42;
 }
 .portfolio-list-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -117,7 +112,6 @@ body {
 }
 .footer-logo {
   font-family: "Raleway", sans-serif;
-  font-weight: 700;
   font-size: 18px;
   line-height: 1.16667;
   letter-spacing: 0.03em;
@@ -125,7 +119,6 @@ body {
   color: #f4f4fd;
 }
 .footer-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
